@@ -10,7 +10,7 @@
 
 ## Metodos comunes posicion raton
 
-![Metodos comunes posicion raton](Metodos_comunes_posicion_raton.png "Metodos comunes posicion raton")
+![Metodos comunes posicion raton](Metodos_comunes_posicionraton.png "metodos comunes posicion raton")
 
 #### Se aumenta o disminuye el tamaño de la letra en un intervalo de tiempo
 
